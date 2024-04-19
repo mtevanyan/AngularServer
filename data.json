@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "37493333333",
+      "password": "password1",
+      "bankAccounts": [
+        {
+          "accountNumber":"54568236",
+          "accountType":"bank account",
+          "currency":"AMD",
+          "balance":"500"
+        },
+        {
+          "accountNumber":"213213213",
+          "accountType":"saving account",
+          "currency":"EUR",
+          "balance":"6000000"
+        },
+        {
+          "accountNumber":"534246436",
+          "accountType":"visa platinum card account",
+          "currency":"USD",
+          "balance":"10"
+        }
+      ],
+      "userData": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "passportNumber": "AX5632547"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 2,
+      "username": "37494444444",
+      "password": "adminpassword",
+      "bankAccounts": [
+        {
+          "accountNumber":"54568236",
+          "accountType":"bank account",
+          "currency":"AMD",
+          "balance":"500"
+        },
+        {
+          "accountNumber":"213213213",
+          "accountType":"saving account",
+          "currency":"EUR",
+          "balance":"6000000"
+        },
+        {
+          "accountNumber":"534246436",
+          "accountType":"visa platinum card account",
+          "currency":"USD",
+          "balance":"10"
+        }
+      ],
+
+      "userData": {
+        "firstName": "Bob",
+        "lastName": "Shield",
+        "passportNumber": "AX5632347"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lectus nulla at volutpat diam ut venenatis tellus. Tincidunt ornare massa eget egestas purus viverra. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Elit duis tristique sollicitudin nibh. Turpis cursus in hac habitasse platea dictumst quisque sagittis purus. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Sit amet consectetur adipiscing elit. "
+    }
+  ],
+  "countryCodes": [
+    {
+      "countryCode": 44,
+      "countryName": "United Kingdom"
+    },
+    {
+      "countryCode": 1,
+      "countryName": "United States Of America"
+    },
+    {
+      "countryCode": 93,
+      "countryName": "Afghanistan"
+    },
+    {
+      "countryCode": 355,
+      "countryName": "Albania"
+    },
+    {
+      "countryCode": 213,
+      "countryName": "Algeria"
+    },
+    {
+      "countryCode": 684,
+      "countryName": "American Samoa"
+    },
+    {
+      "countryCode": 374,
+      "countryName": "Armenia"
+    },
+    {
+      "countryCode": 244,
+      "countryName": "Angola"
+    }
+  ]
+}
+
+
+
